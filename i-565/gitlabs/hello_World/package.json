@@ -1,0 +1,11 @@
+{
+  "name": "gitlabs",
+  "version": "1.0.0",
+  "description": "Hi janu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "raj",
+  "license": "ISC"
+}
